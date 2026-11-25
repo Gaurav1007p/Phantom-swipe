@@ -114,7 +114,7 @@ Where tools or techniques are referenced (e.g. John the Ripper, hashcat),
 they are documented for methodological completeness but were not run
 against any real device or real personal data.
 
-**Name:** _[your name]_
-**Student ID:** _[your ID]_
-**Course/Section:** _[fill in]_
-**Date:** _[fill in]_
+**Name:** _[Gaurav Pandey]_
+**Student ID:** _[2301350011]_
+**Course/Section:** _[Btech CSE FSD]_
+**Date:** _[25-11-26]_
